@@ -21,7 +21,4 @@ int main()
     cin >> mhs.nama;
     cout << endl;
     //
-    cout << "Nama ; " << mhs.nama << endl;
-    cout << "Alamat ; " << mhs.nama << endl;
-    cout << "Umur ; " << mhs.nama << endl;
-}
+   
